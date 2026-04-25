@@ -26,6 +26,14 @@ firebase-debug.log*
 firestore-debug.log*
 ui-debug.log*
 
+# Local credentials and private keys
+serviceAccount*.json
+*-firebase-adminsdk-*.json
+google-application-credentials*.json
+*.pem
+*.key
+*.p12
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
